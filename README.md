@@ -7,7 +7,7 @@ OverPass Query Wrapper for GNOME Maps
 Example: 
 ----------
 
-`
+```javascript
 let qm = new OverpassQueryManager({
 	'timeout' : 600,
 	'outputCount' : 1000,
@@ -29,4 +29,4 @@ pois.forEach(function(poi){
     log(poi.tags.amenity + ":" + poi.tags.name);
 });
 
-`
+```
