@@ -28,7 +28,14 @@ function convertJSONPlaceToGeocodePlace(place) {
 
     let geocodePlace = Geocode.Place.new_with_location(
         place.tags.name || "Unknown",
-        Geocode.PlaceType.POINT_OF_INTEREST,  
+        Geocode.PlaceType.POINT_OF_INTEREST,
+        // TODO : Add against PlaceType
+        // Create a data structure which return Place Type for
+        // the corresponding place.tags.(amenity | historic | highway ....)
+        // Example : "hospital" => "Place.Type.HOSPITAL"
+        //           "healthcare" => "Place.Type.HOSPITAL"
+        //           "bus_stop" => "Place.Type.BUS_STOP"
+        // Add Bugs against the types not in Geocode
         location
     );
 
