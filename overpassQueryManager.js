@@ -13,6 +13,8 @@ const _DEFAULT_OUTPUT_COUNT = 1e6;
 const _DEFAULT_OUTPUT_INFO = "body";
 const _DEFAULT_OUTPUT_SORT_ORDER = "qt";
 
+const _UNKNOWN = "Unknown";
+
 const BASE_URL = "http://overpass-api.de/api/interpreter";
 
 function convertJSONPlaceToGeocodePlace(place) {
@@ -26,8 +28,12 @@ function convertJSONPlaceToGeocodePlace(place) {
                                          // or reverse_gecode this.
     });
 
+    let name = _UNKNOWN;
+    if(place.tags)
+        name = place.tags.name || _UNKNOWN;
+
     let geocodePlace = Geocode.Place.new_with_location(
-        place.tags.name || "Unknown",
+        name,
         Geocode.PlaceType.POINT_OF_INTEREST,
         // TODO : Add against PlaceType
         // Create a data structure which return Place Type for
