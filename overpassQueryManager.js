@@ -4,6 +4,7 @@ const Lang = imports.lang;
 const Signals = imports.signals;
 const Soup = imports.gi.Soup;
 const Format = imports.format;
+const Geocode = imports.gi.GeocodeGlib;
 
 const _DEFAULT_TIMEOUT = 180;
 const _DEFAULT_MAXSIZE = 536870912;
@@ -13,6 +14,26 @@ const _DEFAULT_OUTPUT_INFO = "body";
 const _DEFAULT_OUTPUT_SORT_ORDER = "qt";
 
 const BASE_URL = "http://overpass-api.de/api/interpreter";
+
+function convertJSONPlaceToGeocodePlace(place) {
+
+    let location = new Geocode.Location({
+        latitude:    place.lat,
+        longitude:   place.lon,
+        accuracy:    0,
+        description: place.id.toString() // PONDER : Whether this should be id or name
+                                         // as Geocode has no option for a location id.
+                                         // or reverse_gecode this.
+    });
+
+    let geocodePlace = Geocode.Place.new_with_location(
+        place.tags.name || "Unknown",
+        Geocode.PlaceType.POINT_OF_INTEREST,  
+        location
+    );
+
+    return geocodePlace;
+}
 
 const OverpassQueryManager = new Lang.Class({
     Name: 'OverpassQueryManager',
@@ -73,6 +94,7 @@ const OverpassQueryManager = new Lang.Class({
     			BASE_URL,
     			query
     		]);
+        log(url);
     	let uri = new Soup.URI(url);
     	let request = new Soup.Message({method:"GET", uri:uri});
 		this.session.send_message(request);
@@ -167,6 +189,10 @@ qm.addSearchPhrase('amenity', 'hospital');
 // log(qm._getPhraseString());
 
 let pois = qm.fetchPois();
+for (var i = 0; i < pois.length; i++) {
+    pois[i] = convertJSONPlaceToGeocodePlace(pois[i]);
+};
+
 pois.forEach(function(poi){
-    log(poi.tags.amenity + ":" + poi.tags.name);
+    log(poi);
 });
