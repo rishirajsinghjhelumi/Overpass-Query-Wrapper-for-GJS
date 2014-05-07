@@ -1,0 +1,377 @@
+Phrase,Key,Value
+Unincorporated Area,place,unincorporated_area
+Public Building,building,public
+Moor,natural,moor
+Convenience Store,shop,convenience
+Discount Items Shop,shop,discount
+Viewpoint,tourism,viewpoint
+Dam,waterway,dam
+Ice Rink,leisure,ice_rink
+Riverbank,waterway,riverbank
+Faculty Building,building,faculty
+Food Shop,shop,food
+Region,place,region
+Marketplace,amenity,marketplace
+Crematorium,amenity,crematorium
+Post Box,amenity,post_box
+Theme Park,tourism,theme_park
+Motorway Junction,highway,motorway_junction
+Narrow Gauge Railway,railway,narrow_gauge
+Emergency Access Point,highway,emergency_access_point
+Community Centre,amenity,community_centre
+Swinger Club,amenity,swingerclub
+Historic Railway Station,railway,historic_station
+Hunting Stand,amenity,hunting_stand
+Geyser,natural,geyser
+Cycle Parking,amenity,bicycle_parking
+Disused Railway Station,railway,disused_station
+State,place,state
+Scree,natural,scree
+Lock Gate,waterway,lock_gate
+Water Park,leisure,water_park
+Theatre,amenity,theatre
+Fire Station,amenity,fire_station
+Hardware Store,shop,hardware
+Ford,highway,ford
+Waterfall,waterway,waterfall
+Garden Centre,shop,garden_centre
+Reef,natural,reef
+Abandoned Railway,railway,abandoned
+Cape,natural,cape
+General Store,shop,general
+Fitness Centre,amenity,gym
+Tram Stop,railway,tram_stop
+Car Repair,shop,car_repair
+Animal shelter,amenity,animal_shelter
+Computer Shop,shop,computer
+Reservoir,landuse,reservoir
+Garage,building,garage
+Camp Site,tourism,camp_site
+Water Point,waterway,water_point
+Islet,place,islet
+Golf Course,leisure,golf_course
+Canal,waterway,canal
+Mountain,landuse,mountain
+Doctor,amenity,doctors
+Weir,waterway,weir
+Fountain,amenity,fountain
+Residential Building,building,residential
+Basin,landuse,basin
+Outdoor Shop,shop,outdoor
+Emergency Phone,amenity,emergency_phone
+Houses,place,houses
+Fell,natural,fell
+Peak,natural,peak
+Land,natural,land
+Subway Station,railway,subway
+Toy Shop,shop,toys
+Landfill,landuse,landfill
+Driving School,amenity,driving_school
+Tertiary Road,highway,tertiary
+Wetlands,natural,wetlands
+Estate Agent,shop,estate_agent
+Municipality,place,municipality
+Library,amenity,library
+Hamlet,place,hamlet
+Wadi,waterway,wadi
+Recreation Ground,landuse,recreation_ground
+Police,amenity,police
+Motel,tourism,motel
+Mineral Spring,waterway,mineral_spring
+Feature,natural,feature
+Railway Yard,railway,yard
+Kindergarten,amenity,kindergarten
+Shoe Shop,shop,shoes
+Confectionery Shop,shop,confectionery
+Bus Station,amenity,bus_station
+Animal boarding facility,amenity,animal_boarding
+Preserved Railway,railway,preserved
+Mobile Phone Shop,shop,mobile_phone
+Cliff,natural,cliff
+Drain,waterway,drain
+Subdivision,place,subdivision
+Pet Shop,shop,pet
+Fish Shop,shop,fish
+Department Store,shop,department_store
+Military Area,landuse,military
+Nursery,amenity,nursery
+Monorail,railway,monorail
+Apparel Shop,shop,apparel
+Clothes Shop,shop,clothes
+Charity Shop,shop,charity
+Social Club,amenity,social_club
+Vending Machine,amenity,vending_machine
+Funeral Director,shop,funeral_directors
+Light Rail,railway,light_rail
+Suburb,place,suburb
+Piste,landuse,piste
+Path,highway,path
+Mountain Rescue,amenity,mountain_rescue
+Nursing Home,amenity,nursing_home
+Bar,amenity,pub
+Bay,natural,bay
+Brothel,amenity,brothel
+Steps,highway,steps
+Tower,building,tower
+Raceway,highway,raceway
+Service Area,highway,services
+Health Centre,amenity,health_centre
+Telephone,amenity,telephone
+Museum,historic,museum
+Butcher,shop,butcher
+Platform,highway,platform
+Farm Building,building,farm
+Video Shop,shop,video
+Secondary Road,highway,secondary_link
+Car Wash,amenity,car_wash
+Village Hall,amenity,village_hall
+Sauna,amenity,sauna
+Dry Cleaning,shop,dry_cleaning
+Trunk Road,highway,trunk_link
+Distance Marker,highway,distance_marker
+Town,place,town
+Byway,highway,byway
+Level Crossing,railway,level_crossing
+University,amenity,university
+Plaza,landuse,plaza
+Mall,shop,mall
+Bus Stop,highway,bus_stop
+Point,natural,point
+Cave Entrance,natural,cave_entrance
+Guided Bus Lane,highway,bus_guideway
+Car Rental,amenity,car_rental
+Embassy,amenity,embassy
+Shoal,natural,shoal
+Unsurfaced Road,highway,unsurfaced
+Off License,shop,wine
+Cafe,amenity,cafe
+Unclassified Road,highway,unclassified
+Hotel,amenity,hotel
+ATM,amenity,atm
+Service Road,highway,service
+Fire Hydrant,amenity,fire_hydrant
+Drugstore,shop,drugstore
+Recycling Point,amenity,recycling
+Commercial Building,building,commercial
+Farmland,landuse,farmland
+Youth Centre,amenity,youth_centre
+Flats,building,flats
+Road,highway,road
+Taxi,amenity,taxi
+Battlefield,historic,battlefield
+Copy Shop,shop,copyshop
+Sea,place,sea
+Art Shop,shop,art
+Information,tourism,information
+Town Hall,amenity,townhall
+Attraction,tourism,attraction
+Kiosk Shop,shop,kiosk
+Bureau de Change,amenity,bureau_de_change
+Valley,natural,valley
+Laundry,shop,laundry
+Food,amenity,restaurant
+Waterway Connector,waterway,connector
+Dock,waterway,dock
+Chalet,tourism,chalet
+Tramway,railway,tram
+Gallery,shop,gallery
+Bank,amenity,bank
+Optician,shop,optician
+Brownfield Land,landuse,brownfield
+Heath,natural,heath
+Car Parts,shop,car_parts
+Allotment,landuse,allotments
+Scrub,natural,scrub
+Auditorium,amenity,auditorium
+Lock,waterway,lock
+Ridge,natural,ridge
+Stationery Shop,shop,stationery
+Hill,natural,hill
+Gate,highway,gate
+Shopping Centre,shop,shopping_centre
+Living Street,highway,living_street
+Windmill,man_made,windmill
+Water,natural,water
+Sports Centre,leisure,sports_centre
+Beauty Shop,shop,beauty
+Motorway,highway,motorway
+Studio,amenity,studio
+Furniture,shop,furniture
+Reception Area,amenity,reception_area
+Slipway,leisure,slipway
+Alpine Hut,tourism,alpine_hut
+Bunker,building,bunker
+Greengrocer,shop,greengrocer
+River,natural,river
+Industrial Building,building,industrial
+Clinic,amenity,clinic
+Boatyard,waterway,boatyard
+Car Shop,shop,car
+Motorway Road,highway,motorway_link
+Carpet Shop,shop,carpet
+Courthouse,amenity,courthouse
+Glacier,natural,glacier
+Hospital,amenity,hospital
+Zoo,tourism,zoo
+Dormitory,amenity,dormitory
+Cosmetics Shop,shop,cosmetics
+Shopping,amenity,shopping
+Shelter,amenity,shelter
+Park,amenity,park
+Waste Basket,amenity,waste_basket
+Sports Pitch,leisure,pitch
+Farmyard,landuse,farmyard
+College,amenity,college
+Rest Area,highway,rest_area
+Parking,amenity,parking
+Tree,natural,tree
+City,place,city
+Nature Reserve,landuse,nature_reserve
+Common Land,leisure,common
+Meadow,landuse,meadow
+Electronics Shop,shop,electronics
+Strait,natural,strait
+Sports Shop,shop,sports
+Fishing Area,leisure,fishing
+Minor Road,highway,minor
+Car Share,amenity,car_sharing
+Photo Shop,shop,photo
+Bench,amenity,bench
+Forest,landuse,forest
+Cabin,tourism,cabin
+Archaeological Site,historic,archaeological_site
+Swimming Pool,leisure,swimming_pool
+Trail,highway,trail
+Dentist,amenity,dentist
+Retail Building,building,retail
+Subway Entrance,railway,subway_entrance
+Guest House,tourism,guest_house
+Casino,amenity,casino
+Bed and Breakfast,tourism,bed_and_breakfast
+Organic Food Shop,shop,organic
+Cinema,amenity,cinema
+Newsagent,shop,newsagent
+Beverages Shop,shop,beverages
+Postcode,place,postcode
+Church,building,church
+Music Shop,shop,music
+Market,amenity,market
+Car Dealer,shop,car_dealer
+Disused Railway,railway,disused
+Ruin,historic,ruins
+City Hall,building,city_hall
+Railway Points,railway,switch
+Pedestrian Way,highway,pedestrian
+Wood,landuse,wood
+Prison,amenity,prison
+Fuel,amenity,fuel
+Beach,natural,beach
+Building Block,building,block
+Garden,leisure,garden
+Public Market,amenity,public_market
+Coastline,natural,coastline
+Chapel,building,chapel
+Do-It-Yourself,shop,doityourself
+Derelict Canal,waterway,derelict_canal
+Village Green,landuse,village_green
+Airport,aeroway,aerodrome
+Spring,natural,spring
+Mine,historic,mine
+Club,amenity,club
+Gift Shop,shop,gift
+Terrace,building,terrace
+Florist,shop,florist
+Travel Agency,shop,travel_agency
+Memorial,historic,memorial
+Pre-School,amenity,preschool
+Beach Resort,leisure,beach_resort
+Railway Junction,railway,junction
+Marsh,natural,marsh
+Playground,leisure,playground
+Primary Road,highway,primary_link
+Hackerspace,leisure,hackerspace
+Picnic Site,tourism,picnic_site
+Post Office,amenity,post_office
+Marina,leisure,marina
+Icon,historic,icon
+Building,historic,building
+Island,natural,island
+Bakery,shop,bakery
+Grocery Shop,shop,grocery
+Volcano,natural,volcano
+Grass,landuse,grass
+Ice Cream,amenity,ice_cream
+Shop,amenity,shop
+Hall,amenity,hall
+Vineyard,landuse,vineyard
+Night Club,amenity,nightclub
+Pharmacy,amenity,pharmacy
+Conservation,landuse,conservation
+Channel,natural,channel
+Fashion Shop,shop,fashion
+Quarry,landuse,quarry
+Wayside Cross,historic,wayside_cross
+Motorcycle Shop,shop,motorcycle
+Bicycle Shop,shop,bicycle
+School,amenity,school
+Highway under Construction,highway,construction
+Drinking Water,amenity,drinking_water
+Caravan Site,tourism,caravan_site
+Rock,natural,rock
+Railway Station,railway,station
+Toilet,amenity,toilets
+Cycle Rental,amenity,bicycle_rental
+Miniature Golf,leisure,miniature_golf
+Stile,highway,stile
+Hostel,tourism,hostel
+Locality,place,locality
+Train Stop,railway,halt
+Stadium,building,stadium
+Ferry Terminal,amenity,ferry_terminal
+Store,building,store
+Boundary Stone,historic,boundary_stone
+Artwork,tourism,artwork
+Footpath,highway,footway
+Retirement Home,amenity,retirement_home
+Hi-Fi,shop,hifi
+Castle,historic,castle
+Office,amenity,office
+Mud,natural,mud
+House,building,house
+Rapids,waterway,rapids
+County,place,county
+Building Entrance,building,entrance
+Wetland,landuse,wetland
+Railway Spur,railway,spur
+Insurance,shop,insurance
+Wreck,historic,wreck
+Book Shop,shop,books
+Cemetery,landuse,cemetery
+Crater,natural,crater
+Fjord,natural,fjord
+Jewelry Shop,shop,jewelry
+Fast Food,amenity,fast_food
+Chemist,shop,chemist
+Greenfield Land,landuse,greenfield
+Manor,historic,manor
+Hairdresser,shop,hairdresser
+Track,highway,track
+Supermarket,amenity,supermarket
+Lean To,tourism,lean_to
+Mooring,waterway,mooring
+WiFi Access,amenity,wifi
+Stream,waterway,stream
+Arts Centre,amenity,arts_centre
+Veterinary Surgery,amenity,veterinary
+Country,place,country
+Grave Yard,amenity,grave_yard
+Monument,historic,monument
+Funicular Railway,railway,funicular
+Railway,landuse,railway
+Salon,shop,salon
+Wayside Shrine,historic,wayside_shrine
+Cycle Path,highway,cycleway
+Bridleway,highway,bridleway
+Village,place,village
+Apartment Block,building,apartments
+Ditch,waterway,ditch
