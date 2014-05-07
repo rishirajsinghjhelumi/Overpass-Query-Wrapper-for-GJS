@@ -29,7 +29,7 @@ def writePhrasesAsCSV(phrases):
 
 	csvWriter = open(OUTPUT_FILE, 'wb')
 	csvWriter.write('%s,%s,%s\n'%('Phrase', 'Key', 'Value'))
-	for phrase in phrases:
+	for phrase in sorted(phrases):
 		csvWriter.write('%s,%s,%s\n'%(phrase, phrases[phrase]['type'], phrases[phrase]['value']))
 	csvWriter.close()
 
