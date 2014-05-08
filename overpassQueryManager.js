@@ -17,37 +17,6 @@ const _UNKNOWN = "Unknown";
 
 const BASE_URL = "http://overpass-api.de/api/interpreter";
 
-function convertJSONPlaceToGeocodePlace(place) {
-
-    let location = new Geocode.Location({
-        latitude:    place.lat,
-        longitude:   place.lon,
-        accuracy:    0,
-        description: place.id.toString() // PONDER : Whether this should be id or name
-                                         // as Geocode has no option for a location id.
-                                         // or reverse_gecode this.
-    });
-
-    let name = _UNKNOWN;
-    if(place.tags)
-        name = place.tags.name || _UNKNOWN;
-
-    let geocodePlace = Geocode.Place.new_with_location(
-        name,
-        Geocode.PlaceType.POINT_OF_INTEREST,
-        // TODO : Add against PlaceType
-        // Create a data structure which return Place Type for
-        // the corresponding place.tags.(amenity | historic | highway ....)
-        // Example : "hospital" => "Place.Type.HOSPITAL"
-        //           "healthcare" => "Place.Type.HOSPITAL"
-        //           "bus_stop" => "Place.Type.BUS_STOP"
-        // Add Bugs against the types not in Geocode
-        location
-    );
-
-    return geocodePlace;
-}
-
 const OverpassQueryManager = new Lang.Class({
     Name: 'OverpassQueryManager',
 
@@ -107,11 +76,18 @@ const OverpassQueryManager = new Lang.Class({
     			BASE_URL,
     			query
     		]);
-        log(url);
-    	let uri = new Soup.URI(url);
-    	let request = new Soup.Message({method:"GET", uri:uri});
-		this.session.send_message(request);
-		return JSON.parse(request.response_body.data)['elements'];
+
+        let uri = new Soup.URI(url);
+        let request = new Soup.Message({method:"GET", uri:uri});
+        this.session.send_message(request);
+
+        let pois = JSON.parse(request.response_body.data)['elements'];
+        for (var i = 0; i < pois.length; i++) {
+            pois[i] = this._convertJSONPlaceToGeocodePlace(pois[i]);
+        }
+
+        return pois;
+
     },
 
     _generateOverpassQuery: function() {
@@ -166,6 +142,37 @@ const OverpassQueryManager = new Lang.Class({
     			this.outputSortOrder,
     			this.outputCount,
     		]);
+    },
+
+    _convertJSONPlaceToGeocodePlace: function(place) {
+
+        let location = new Geocode.Location({
+            latitude:    place.lat,
+            longitude:   place.lon,
+            accuracy:    0,
+            description: place.id.toString() // PONDER : Whether this should be id or name
+                                             // as Geocode has no option for a location id.
+                                             // or reverse_gecode this.
+        });
+
+        let name = _UNKNOWN;
+        if(place.tags)
+            name = place.tags.name || _UNKNOWN;
+
+        let geocodePlace = Geocode.Place.new_with_location(
+            name,
+            Geocode.PlaceType.POINT_OF_INTEREST,
+            // TODO : Add against PlaceType
+            // Create a data structure which return Place Type for
+            // the corresponding place.tags.(amenity | historic | highway ....)
+            // Example : "hospital" => "Place.Type.HOSPITAL"
+            //           "healthcare" => "Place.Type.HOSPITAL"
+            //           "bus_stop" => "Place.Type.BUS_STOP"
+            // Add Bugs against the types not in Geocode
+            location
+        );
+
+        return geocodePlace;
     }
 
 });
@@ -202,9 +209,6 @@ qm.addSearchPhrase('amenity', 'hospital');
 // log(qm._getPhraseString());
 
 let pois = qm.fetchPois();
-for (var i = 0; i < pois.length; i++) {
-    pois[i] = convertJSONPlaceToGeocodePlace(pois[i]);
-};
 
 pois.forEach(function(poi){
     log(poi);
