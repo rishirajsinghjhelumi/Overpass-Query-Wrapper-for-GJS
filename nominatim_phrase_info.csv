@@ -1,377 +1,377 @@
 Phrase,Key,Value,count,count_fraction
-ATM,amenity,atm,70318,0.0008
-Abandoned Railway,railway,abandoned,664,0.0
-Airport,aeroway,aerodrome,36610,0.0004
+ATM,amenity,atm,70347,0.0008
+Abandoned Railway,railway,abandoned,665,0.0
+Airport,aeroway,aerodrome,36606,0.0004
 Allotment,landuse,allotments,1379,0.0
 Alpine Hut,tourism,alpine_hut,5963,0.0001
 Animal boarding facility,amenity,animal_boarding,59,0.0
 Animal shelter,amenity,animal_shelter,114,0.0
-Apartment Block,building,apartments,6346,0.0001
+Apartment Block,building,apartments,6351,0.0001
 Apparel Shop,shop,apparel,8,0.0
-Archaeological Site,historic,archaeological_site,19623,0.0002
-Art Shop,shop,art,1918,0.0
-Arts Centre,amenity,arts_centre,5059,0.0001
-Artwork,tourism,artwork,21986,0.0003
-Attraction,tourism,attraction,43234,0.0005
+Archaeological Site,historic,archaeological_site,19628,0.0002
+Art Shop,shop,art,1919,0.0
+Arts Centre,amenity,arts_centre,5056,0.0001
+Artwork,tourism,artwork,22016,0.0003
+Attraction,tourism,attraction,43250,0.0005
 Auditorium,amenity,auditorium,44,0.0
-Bakery,shop,bakery,63669,0.0007
-Bank,amenity,bank,130091,0.0015
-Bar,amenity,pub,86378,0.001
+Bakery,shop,bakery,63690,0.0007
+Bank,amenity,bank,130142,0.0015
+Bar,amenity,pub,86388,0.001
 Basin,landuse,basin,482,0.0
 Battlefield,historic,battlefield,981,0.0
 Bay,natural,bay,32217,0.0004
-Beach,natural,beach,6590,0.0001
+Beach,natural,beach,6591,0.0001
 Beach Resort,leisure,beach_resort,427,0.0
-Beauty Shop,shop,beauty,8134,0.0001
+Beauty Shop,shop,beauty,8139,0.0001
 Bed and Breakfast,tourism,bed_and_breakfast,448,0.0
-Bench,amenity,bench,377969,0.0043
-Beverages Shop,shop,beverages,5600,0.0001
-Bicycle Shop,shop,bicycle,17858,0.0002
+Bench,amenity,bench,378166,0.0043
+Beverages Shop,shop,beverages,5593,0.0001
+Bicycle Shop,shop,bicycle,17867,0.0002
 Boatyard,waterway,boatyard,594,0.0
-Book Shop,shop,books,15802,0.0002
-Boundary Stone,historic,boundary_stone,12704,0.0001
+Book Shop,shop,books,15807,0.0002
+Boundary Stone,historic,boundary_stone,12711,0.0001
 Bridleway,highway,bridleway,11,0.0
 Brothel,amenity,brothel,892,0.0
 Brownfield Land,landuse,brownfield,39,0.0
-Building,historic,building,593,0.0
+Building,historic,building,594,0.0
 Building Block,building,block,1,0.0
-Building Entrance,building,entrance,115146,0.0013
+Building Entrance,building,entrance,115018,0.0013
 Bunker,building,bunker,569,0.0
-Bureau de Change,amenity,bureau_de_change,2510,0.0
-Bus Station,amenity,bus_station,17961,0.0002
-Bus Stop,highway,bus_stop,1311698,0.015
-Butcher,shop,butcher,23028,0.0003
+Bureau de Change,amenity,bureau_de_change,2509,0.0
+Bus Station,amenity,bus_station,17956,0.0002
+Bus Stop,highway,bus_stop,1312158,0.015
+Butcher,shop,butcher,23032,0.0003
 Byway,highway,byway,3,0.0
 Cabin,tourism,cabin,990,0.0
-Cafe,amenity,cafe,126251,0.0014
-Camp Site,tourism,camp_site,32659,0.0004
+Cafe,amenity,cafe,126301,0.0014
+Camp Site,tourism,camp_site,32677,0.0004
 Canal,waterway,canal,1835,0.0
 Cape,natural,cape,2609,0.0
 Car Dealer,shop,car_dealer,17,0.0
-Car Parts,shop,car_parts,4417,0.0001
-Car Rental,amenity,car_rental,5113,0.0001
-Car Repair,shop,car_repair,37569,0.0004
+Car Parts,shop,car_parts,4425,0.0001
+Car Rental,amenity,car_rental,5114,0.0001
+Car Repair,shop,car_repair,37582,0.0004
 Car Share,amenity,car_sharing,4475,0.0001
-Car Shop,shop,car,26891,0.0003
-Car Wash,amenity,car_wash,18780,0.0002
-Caravan Site,tourism,caravan_site,4575,0.0001
-Carpet Shop,shop,carpet,526,0.0
+Car Shop,shop,car,26904,0.0003
+Car Wash,amenity,car_wash,18795,0.0002
+Caravan Site,tourism,caravan_site,4579,0.0001
+Carpet Shop,shop,carpet,527,0.0
 Casino,amenity,casino,778,0.0
-Castle,historic,castle,8126,0.0001
-Cave Entrance,natural,cave_entrance,12864,0.0001
-Cemetery,landuse,cemetery,10420,0.0001
-Chalet,tourism,chalet,6695,0.0001
+Castle,historic,castle,8124,0.0001
+Cave Entrance,natural,cave_entrance,12879,0.0001
+Cemetery,landuse,cemetery,10427,0.0001
+Chalet,tourism,chalet,6700,0.0001
 Channel,natural,channel,34,0.0
-Chapel,building,chapel,2365,0.0
-Charity Shop,shop,charity,974,0.0
-Chemist,shop,chemist,9532,0.0001
-Church,building,church,3990,0.0
-Cinema,amenity,cinema,11145,0.0001
-City,place,city,8664,0.0001
+Chapel,building,chapel,2383,0.0
+Charity Shop,shop,charity,973,0.0
+Chemist,shop,chemist,9529,0.0001
+Church,building,church,4007,0.0
+Cinema,amenity,cinema,11150,0.0001
+City,place,city,8672,0.0001
 City Hall,building,city_hall,0,0.0
-Cliff,natural,cliff,15789,0.0002
-Clinic,amenity,clinic,5240,0.0001
-Clothes Shop,shop,clothes,66114,0.0008
+Cliff,natural,cliff,15795,0.0002
+Clinic,amenity,clinic,5246,0.0001
+Clothes Shop,shop,clothes,66144,0.0008
 Club,amenity,club,165,0.0
 Coastline,natural,coastline,0,0.0
-College,amenity,college,6698,0.0001
-Commercial Building,building,commercial,2674,0.0
+College,amenity,college,6696,0.0001
+Commercial Building,building,commercial,2675,0.0
 Common Land,leisure,common,608,0.0
-Community Centre,amenity,community_centre,8654,0.0001
-Computer Shop,shop,computer,7531,0.0001
-Confectionery Shop,shop,confectionery,6710,0.0001
+Community Centre,amenity,community_centre,8652,0.0001
+Computer Shop,shop,computer,7532,0.0001
+Confectionery Shop,shop,confectionery,6714,0.0001
 Conservation,landuse,conservation,454,0.0
-Convenience Store,shop,convenience,143844,0.0016
-Copy Shop,shop,copyshop,2769,0.0
+Convenience Store,shop,convenience,143893,0.0016
+Copy Shop,shop,copyshop,2772,0.0
 Cosmetics Shop,shop,cosmetics,483,0.0
 Country,place,country,226,0.0
-County,place,county,6463,0.0001
-Courthouse,amenity,courthouse,5465,0.0001
-Crater,natural,crater,171,0.0
+County,place,county,6460,0.0001
+Courthouse,amenity,courthouse,5461,0.0001
+Crater,natural,crater,170,0.0
 Crematorium,amenity,crematorium,169,0.0
-Cycle Parking,amenity,bicycle_parking,83988,0.001
+Cycle Parking,amenity,bicycle_parking,84017,0.001
 Cycle Path,highway,cycleway,50,0.0
-Cycle Rental,amenity,bicycle_rental,11840,0.0001
-Dam,waterway,dam,55918,0.0006
-Dentist,amenity,dentist,18078,0.0002
-Department Store,shop,department_store,9343,0.0001
+Cycle Rental,amenity,bicycle_rental,11852,0.0001
+Dam,waterway,dam,55921,0.0006
+Dentist,amenity,dentist,18086,0.0002
+Department Store,shop,department_store,9349,0.0001
 Derelict Canal,waterway,derelict_canal,1,0.0
 Discount Items Shop,shop,discount,134,0.0
 Distance Marker,highway,distance_marker,176,0.0
-Disused Railway,railway,disused,158,0.0
+Disused Railway,railway,disused,172,0.0
 Disused Railway Station,railway,disused_station,222,0.0
 Ditch,waterway,ditch,58,0.0
-Do-It-Yourself,shop,doityourself,20727,0.0002
+Do-It-Yourself,shop,doityourself,20741,0.0002
 Dock,waterway,dock,923,0.0
-Doctor,amenity,doctors,27582,0.0003
+Doctor,amenity,doctors,27589,0.0003
 Dormitory,amenity,dormitory,49,0.0
 Drain,waterway,drain,728,0.0
-Drinking Water,amenity,drinking_water,68995,0.0008
-Driving School,amenity,driving_school,3604,0.0
+Drinking Water,amenity,drinking_water,69029,0.0008
+Driving School,amenity,driving_school,3606,0.0
 Drugstore,shop,drugstore,32,0.0
-Dry Cleaning,shop,dry_cleaning,5181,0.0001
+Dry Cleaning,shop,dry_cleaning,5184,0.0001
 Electronics Shop,shop,electronics,12158,0.0001
 Embassy,amenity,embassy,2896,0.0
-Emergency Access Point,highway,emergency_access_point,13778,0.0002
-Emergency Phone,amenity,emergency_phone,8075,0.0001
-Estate Agent,shop,estate_agent,1948,0.0
+Emergency Access Point,highway,emergency_access_point,13786,0.0002
+Emergency Phone,amenity,emergency_phone,8074,0.0001
+Estate Agent,shop,estate_agent,1949,0.0
 Faculty Building,building,faculty,0,0.0
-Farm Building,building,farm,2272,0.0
-Farmland,landuse,farmland,296,0.0
-Farmyard,landuse,farmyard,748,0.0
+Farm Building,building,farm,2271,0.0
+Farmland,landuse,farmland,302,0.0
+Farmyard,landuse,farmyard,749,0.0
 Fashion Shop,shop,fashion,242,0.0
-Fast Food,amenity,fast_food,122758,0.0014
+Fast Food,amenity,fast_food,122784,0.0014
 Feature,natural,feature,169,0.0
-Fell,natural,fell,811,0.0
-Ferry Terminal,amenity,ferry_terminal,7859,0.0001
+Fell,natural,fell,812,0.0
+Ferry Terminal,amenity,ferry_terminal,7860,0.0001
 Fire Hydrant,amenity,fire_hydrant,13733,0.0002
-Fire Station,amenity,fire_station,48371,0.0006
+Fire Station,amenity,fire_station,48368,0.0006
 Fish Shop,shop,fish,317,0.0
 Fishing Area,leisure,fishing,1374,0.0
-Fitness Centre,amenity,gym,615,0.0
+Fitness Centre,amenity,gym,614,0.0
 Fjord,natural,fjord,152,0.0
 Flats,building,flats,15,0.0
 Florist,shop,florist,21533,0.0002
-Food,amenity,restaurant,327380,0.0038
-Food Shop,shop,food,748,0.0
-Footpath,highway,footway,607,0.0
-Ford,highway,ford,5941,0.0001
-Forest,landuse,forest,128358,0.0015
-Fountain,amenity,fountain,36658,0.0004
-Fuel,amenity,fuel,178473,0.002
-Funeral Director,shop,funeral_directors,1652,0.0
+Food,amenity,restaurant,327482,0.0037
+Food Shop,shop,food,750,0.0
+Footpath,highway,footway,606,0.0
+Ford,highway,ford,5939,0.0001
+Forest,landuse,forest,128359,0.0015
+Fountain,amenity,fountain,36674,0.0004
+Fuel,amenity,fuel,178530,0.002
+Funeral Director,shop,funeral_directors,1654,0.0
 Funicular Railway,railway,funicular,0,0.0
-Furniture,shop,furniture,12717,0.0001
+Furniture,shop,furniture,12725,0.0001
 Gallery,shop,gallery,139,0.0
-Garage,building,garage,1120,0.0
-Garden,leisure,garden,1452,0.0
-Garden Centre,shop,garden_centre,5938,0.0001
-Gate,highway,gate,0,0.0
-General Store,shop,general,1484,0.0
+Garage,building,garage,1121,0.0
+Garden,leisure,garden,1445,0.0
+Garden Centre,shop,garden_centre,5941,0.0001
+Gate,highway,gate,2,0.0
+General Store,shop,general,1482,0.0
 Geyser,natural,geyser,131,0.0
-Gift Shop,shop,gift,9839,0.0001
+Gift Shop,shop,gift,9847,0.0001
 Glacier,natural,glacier,944,0.0
-Golf Course,leisure,golf_course,3030,0.0
-Grass,landuse,grass,590,0.0
-Grave Yard,amenity,grave_yard,120427,0.0014
+Golf Course,leisure,golf_course,3034,0.0
+Grass,landuse,grass,589,0.0
+Grave Yard,amenity,grave_yard,120418,0.0014
 Greenfield Land,landuse,greenfield,52,0.0
-Greengrocer,shop,greengrocer,9116,0.0001
+Greengrocer,shop,greengrocer,9118,0.0001
 Grocery Shop,shop,grocery,465,0.0
-Guest House,tourism,guest_house,27517,0.0003
+Guest House,tourism,guest_house,27523,0.0003
 Guided Bus Lane,highway,bus_guideway,1,0.0
 Hackerspace,leisure,hackerspace,216,0.0
-Hairdresser,shop,hairdresser,58743,0.0007
+Hairdresser,shop,hairdresser,58767,0.0007
 Hall,amenity,hall,84,0.0
-Hamlet,place,hamlet,687286,0.0079
-Hardware Store,shop,hardware,10142,0.0001
+Hamlet,place,hamlet,687485,0.0079
+Hardware Store,shop,hardware,10154,0.0001
 Health Centre,amenity,health_centre,106,0.0
 Heath,natural,heath,387,0.0
-Hi-Fi,shop,hifi,5100,0.0001
-Highway under Construction,highway,construction,245,0.0
+Hi-Fi,shop,hifi,5102,0.0001
+Highway under Construction,highway,construction,244,0.0
 Hill,natural,hill,956,0.0
 Historic Railway Station,railway,historic_station,91,0.0
-Hospital,amenity,hospital,74779,0.0009
-Hostel,tourism,hostel,9488,0.0001
+Hospital,amenity,hospital,74760,0.0009
+Hostel,tourism,hostel,9492,0.0001
 Hotel,amenity,hotel,40,0.0
-House,building,house,138744,0.0016
+House,building,house,177413,0.002
 Houses,place,houses,0,0.0
-Hunting Stand,amenity,hunting_stand,47378,0.0005
-Ice Cream,amenity,ice_cream,3399,0.0
-Ice Rink,leisure,ice_rink,253,0.0
+Hunting Stand,amenity,hunting_stand,47413,0.0005
+Ice Cream,amenity,ice_cream,3404,0.0
+Ice Rink,leisure,ice_rink,254,0.0
 Icon,historic,icon,38,0.0
-Industrial Building,building,industrial,1842,0.0
-Information,tourism,information,219668,0.0025
+Industrial Building,building,industrial,1844,0.0
+Information,tourism,information,219859,0.0025
 Insurance,shop,insurance,854,0.0
 Island,natural,island,105,0.0
 Islet,place,islet,3313,0.0
-Jewelry Shop,shop,jewelry,11358,0.0001
-Kindergarten,amenity,kindergarten,69678,0.0008
-Kiosk Shop,shop,kiosk,30306,0.0003
+Jewelry Shop,shop,jewelry,11360,0.0001
+Kindergarten,amenity,kindergarten,69672,0.0008
+Kiosk Shop,shop,kiosk,30311,0.0003
 Land,natural,land,21600,0.0002
 Landfill,landuse,landfill,686,0.0
-Laundry,shop,laundry,7000,0.0001
+Laundry,shop,laundry,7001,0.0001
 Lean To,tourism,lean_to,55,0.0
-Level Crossing,railway,level_crossing,311023,0.0036
-Library,amenity,library,35599,0.0004
+Level Crossing,railway,level_crossing,311249,0.0036
+Library,amenity,library,35601,0.0004
 Light Rail,railway,light_rail,6,0.0
 Living Street,highway,living_street,68,0.0
-Locality,place,locality,920086,0.0106
+Locality,place,locality,920275,0.0105
 Lock,waterway,lock,318,0.0
-Lock Gate,waterway,lock_gate,14016,0.0002
-Mall,shop,mall,3522,0.0
-Manor,historic,manor,449,0.0
-Marina,leisure,marina,9495,0.0001
+Lock Gate,waterway,lock_gate,14018,0.0002
+Mall,shop,mall,3524,0.0
+Manor,historic,manor,450,0.0
+Marina,leisure,marina,9508,0.0001
 Market,amenity,market,44,0.0
-Marketplace,amenity,marketplace,9298,0.0001
+Marketplace,amenity,marketplace,9300,0.0001
 Marsh,natural,marsh,39,0.0
-Meadow,landuse,meadow,18680,0.0002
-Memorial,historic,memorial,69944,0.0008
+Meadow,landuse,meadow,18681,0.0002
+Memorial,historic,memorial,69970,0.0008
 Military Area,landuse,military,1017,0.0
-Mine,historic,mine,755,0.0
+Mine,historic,mine,759,0.0
 Mineral Spring,waterway,mineral_spring,73,0.0
 Miniature Golf,leisure,miniature_golf,815,0.0
 Minor Road,highway,minor,1,0.0
-Mobile Phone Shop,shop,mobile_phone,9707,0.0001
+Mobile Phone Shop,shop,mobile_phone,9715,0.0001
 Monorail,railway,monorail,1,0.0
-Monument,historic,monument,24632,0.0003
+Monument,historic,monument,24637,0.0003
 Moor,natural,moor,314,0.0
 Mooring,waterway,mooring,119,0.0
 Motel,tourism,motel,12811,0.0001
-Motorcycle Shop,shop,motorcycle,4796,0.0001
+Motorcycle Shop,shop,motorcycle,4801,0.0001
 Motorway,highway,motorway,14,0.0
-Motorway Junction,highway,motorway_junction,104816,0.0012
+Motorway Junction,highway,motorway_junction,104862,0.0012
 Motorway Road,highway,motorway_link,11,0.0
 Mountain,landuse,mountain,5,0.0
 Mountain Rescue,amenity,mountain_rescue,110,0.0
 Mud,natural,mud,284,0.0
 Municipality,place,municipality,498,0.0
 Museum,historic,museum,64,0.0
-Music Shop,shop,music,2066,0.0
+Music Shop,shop,music,2065,0.0
 Narrow Gauge Railway,railway,narrow_gauge,1,0.0
 Nature Reserve,landuse,nature_reserve,2,0.0
-Newsagent,shop,newsagent,5103,0.0001
-Night Club,amenity,nightclub,7036,0.0001
+Newsagent,shop,newsagent,5110,0.0001
+Night Club,amenity,nightclub,7040,0.0001
 Nursery,amenity,nursery,236,0.0
 Nursing Home,amenity,nursing_home,6281,0.0001
-Off License,shop,wine,759,0.0
-Office,amenity,office,332,0.0
-Optician,shop,optician,10477,0.0001
+Off License,shop,wine,760,0.0
+Office,amenity,office,333,0.0
+Optician,shop,optician,10486,0.0001
 Organic Food Shop,shop,organic,1194,0.0
-Outdoor Shop,shop,outdoor,3262,0.0
+Outdoor Shop,shop,outdoor,3260,0.0
 Park,amenity,park,59,0.0
-Parking,amenity,parking,256729,0.0029
+Parking,amenity,parking,256786,0.0029
 Path,highway,path,661,0.0
-Peak,natural,peak,308565,0.0035
-Pedestrian Way,highway,pedestrian,55,0.0
-Pet Shop,shop,pet,4077,0.0
-Pharmacy,amenity,pharmacy,103520,0.0012
+Peak,natural,peak,309083,0.0035
+Pedestrian Way,highway,pedestrian,56,0.0
+Pet Shop,shop,pet,4079,0.0
+Pharmacy,amenity,pharmacy,103537,0.0012
 Photo Shop,shop,photo,1836,0.0
-Picnic Site,tourism,picnic_site,59598,0.0007
+Picnic Site,tourism,picnic_site,59618,0.0007
 Piste,landuse,piste,10,0.0
-Platform,highway,platform,9711,0.0001
-Playground,leisure,playground,81229,0.0009
+Platform,highway,platform,9706,0.0001
+Playground,leisure,playground,81254,0.0009
 Plaza,landuse,plaza,4,0.0
 Point,natural,point,448,0.0
-Police,amenity,police,52591,0.0006
-Post Box,amenity,post_box,157732,0.0018
-Post Office,amenity,post_office,93973,0.0011
+Police,amenity,police,52586,0.0006
+Post Box,amenity,post_box,157773,0.0018
+Post Office,amenity,post_office,93981,0.0011
 Postcode,place,postcode,0,0.0
 Pre-School,amenity,preschool,107,0.0
 Preserved Railway,railway,preserved,6,0.0
 Primary Road,highway,primary_link,14,0.0
-Prison,amenity,prison,1940,0.0
-Public Building,building,public,2566,0.0
+Prison,amenity,prison,1939,0.0
+Public Building,building,public,2583,0.0
 Public Market,amenity,public_market,37,0.0
-Quarry,landuse,quarry,37844,0.0004
+Quarry,landuse,quarry,37846,0.0004
 Raceway,highway,raceway,80,0.0
 Railway,landuse,railway,15,0.0
 Railway Junction,railway,junction,493,0.0
-Railway Points,railway,switch,55733,0.0006
+Railway Points,railway,switch,55763,0.0006
 Railway Spur,railway,spur,2,0.0
-Railway Station,railway,station,78663,0.0009
+Railway Station,railway,station,78655,0.0009
 Railway Yard,railway,yard,19,0.0
 Rapids,waterway,rapids,15154,0.0002
 Reception Area,amenity,reception_area,103,0.0
 Recreation Ground,landuse,recreation_ground,1099,0.0
-Recycling Point,amenity,recycling,114853,0.0013
+Recycling Point,amenity,recycling,114878,0.0013
 Reef,natural,reef,542,0.0
 Region,place,region,2954,0.0
-Reservoir,landuse,reservoir,67721,0.0008
-Residential Building,building,residential,75186,0.0009
-Rest Area,highway,rest_area,4823,0.0001
-Retail Building,building,retail,873,0.0
-Retirement Home,amenity,retirement_home,207,0.0
+Reservoir,landuse,reservoir,67713,0.0008
+Residential Building,building,residential,75206,0.0009
+Rest Area,highway,rest_area,4821,0.0001
+Retail Building,building,retail,874,0.0
+Retirement Home,amenity,retirement_home,208,0.0
 Ridge,natural,ridge,102,0.0
 River,natural,river,0,0.0
 Riverbank,waterway,riverbank,169,0.0
-Road,highway,road,262,0.0
+Road,highway,road,263,0.0
 Rock,natural,rock,140815,0.0016
-Ruin,historic,ruins,19269,0.0002
+Ruin,historic,ruins,19272,0.0002
 Salon,shop,salon,118,0.0
 Sauna,amenity,sauna,1521,0.0
-School,amenity,school,325758,0.0037
+School,amenity,school,325740,0.0037
 Scree,natural,scree,453,0.0
 Scrub,natural,scrub,20871,0.0002
 Sea,place,sea,85,0.0
 Secondary Road,highway,secondary_link,2,0.0
-Service Area,highway,services,2493,0.0
-Service Road,highway,service,826,0.0
-Shelter,amenity,shelter,50728,0.0006
+Service Area,highway,services,2492,0.0
+Service Road,highway,service,827,0.0
+Shelter,amenity,shelter,50744,0.0006
 Shoal,natural,shoal,44,0.0
-Shoe Shop,shop,shoes,13347,0.0002
-Shop,amenity,shop,1166,0.0
+Shoe Shop,shop,shoes,13353,0.0002
+Shop,amenity,shop,1167,0.0
 Shopping,amenity,shopping,38,0.0
 Shopping Centre,shop,shopping_centre,53,0.0
-Slipway,leisure,slipway,13687,0.0002
+Slipway,leisure,slipway,13690,0.0002
 Social Club,amenity,social_club,182,0.0
-Sports Centre,leisure,sports_centre,28103,0.0003
-Sports Pitch,leisure,pitch,10976,0.0001
+Sports Centre,leisure,sports_centre,28116,0.0003
+Sports Pitch,leisure,pitch,10986,0.0001
 Sports Shop,shop,sports,6342,0.0001
-Spring,natural,spring,46416,0.0005
+Spring,natural,spring,46425,0.0005
 Stadium,building,stadium,2,0.0
 State,place,state,1480,0.0
-Stationery Shop,shop,stationery,5848,0.0001
-Steps,highway,steps,2509,0.0
+Stationery Shop,shop,stationery,5856,0.0001
+Steps,highway,steps,2510,0.0
 Stile,highway,stile,1101,0.0
 Store,building,store,15,0.0
 Strait,natural,strait,228,0.0
-Stream,waterway,stream,6708,0.0001
-Studio,amenity,studio,1179,0.0
+Stream,waterway,stream,6710,0.0001
+Studio,amenity,studio,1181,0.0
 Subdivision,place,subdivision,448,0.0
-Suburb,place,suburb,70855,0.0008
+Suburb,place,suburb,70851,0.0008
 Subway Entrance,railway,subway_entrance,14236,0.0002
 Subway Station,railway,subway,22,0.0
 Supermarket,amenity,supermarket,0,0.0
-Swimming Pool,leisure,swimming_pool,3312,0.0
+Swimming Pool,leisure,swimming_pool,3318,0.0
 Swinger Club,amenity,swingerclub,200,0.0
-Taxi,amenity,taxi,16787,0.0002
-Telephone,amenity,telephone,81406,0.0009
+Taxi,amenity,taxi,16794,0.0002
+Telephone,amenity,telephone,81424,0.0009
 Terrace,building,terrace,914,0.0
 Tertiary Road,highway,tertiary,127,0.0
-Theatre,amenity,theatre,10726,0.0001
-Theme Park,tourism,theme_park,1909,0.0
-Toilet,amenity,toilets,71982,0.0008
+Theatre,amenity,theatre,10729,0.0001
+Theme Park,tourism,theme_park,1907,0.0
+Toilet,amenity,toilets,72010,0.0008
 Tower,building,tower,59,0.0
-Town,place,town,66165,0.0008
-Town Hall,amenity,townhall,33755,0.0004
-Toy Shop,shop,toys,6450,0.0001
+Town,place,town,66191,0.0008
+Town Hall,amenity,townhall,33770,0.0004
+Toy Shop,shop,toys,6453,0.0001
 Track,highway,track,435,0.0
 Trail,highway,trail,54,0.0
-Train Stop,railway,halt,23999,0.0003
-Tram Stop,railway,tram_stop,37897,0.0004
+Train Stop,railway,halt,24002,0.0003
+Tram Stop,railway,tram_stop,37899,0.0004
 Tramway,railway,tram,3,0.0
-Travel Agency,shop,travel_agency,6727,0.0001
-Tree,natural,tree,3195652,0.0366
+Travel Agency,shop,travel_agency,6729,0.0001
+Tree,natural,tree,3198233,0.0366
 Trunk Road,highway,trunk_link,12,0.0
 Unclassified Road,highway,unclassified,214,0.0
 Unincorporated Area,place,unincorporated_area,66,0.0
-University,amenity,university,8379,0.0001
+University,amenity,university,8373,0.0001
 Unsurfaced Road,highway,unsurfaced,1,0.0
-Valley,natural,valley,309,0.0
-Vending Machine,amenity,vending_machine,44711,0.0005
-Veterinary Surgery,amenity,veterinary,9547,0.0001
-Video Shop,shop,video,2750,0.0
-Viewpoint,tourism,viewpoint,65072,0.0007
-Village,place,village,814807,0.0093
+Valley,natural,valley,313,0.0
+Vending Machine,amenity,vending_machine,44733,0.0005
+Veterinary Surgery,amenity,veterinary,9550,0.0001
+Video Shop,shop,video,2755,0.0
+Viewpoint,tourism,viewpoint,65095,0.0007
+Village,place,village,814898,0.0093
 Village Green,landuse,village_green,1334,0.0
 Village Hall,amenity,village_hall,178,0.0
 Vineyard,landuse,vineyard,384,0.0
 Volcano,natural,volcano,2714,0.0
 Wadi,waterway,wadi,11,0.0
-Waste Basket,amenity,waste_basket,83576,0.001
-Water,natural,water,23138,0.0003
+Waste Basket,amenity,waste_basket,83631,0.001
+Water,natural,water,23136,0.0003
 Water Park,leisure,water_park,1976,0.0
-Water Point,waterway,water_point,269,0.0
-Waterfall,waterway,waterfall,8509,0.0001
+Water Point,waterway,water_point,270,0.0
+Waterfall,waterway,waterfall,8514,0.0001
 Waterway Connector,waterway,connector,1,0.0
-Wayside Cross,historic,wayside_cross,42708,0.0005
-Wayside Shrine,historic,wayside_shrine,19806,0.0002
-Weir,waterway,weir,21563,0.0002
+Wayside Cross,historic,wayside_cross,42726,0.0005
+Wayside Shrine,historic,wayside_shrine,19814,0.0002
+Weir,waterway,weir,21566,0.0002
 Wetland,landuse,wetland,5,0.0
 Wetlands,natural,wetlands,0,0.0
 WiFi Access,amenity,wifi,109,0.0
 Windmill,man_made,windmill,4681,0.0001
 Wood,landuse,wood,7,0.0
 Wreck,historic,wreck,1069,0.0
-Youth Centre,amenity,youth_centre,240,0.0
-Zoo,tourism,zoo,1714,0.0
+Youth Centre,amenity,youth_centre,241,0.0
+Zoo,tourism,zoo,1713,0.0
